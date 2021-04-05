@@ -8,8 +8,7 @@
 - [The Clone Hero Discord Server](https://discord.gg/Hsn4Cgu), 
 - Default wallpaper packages from various Linux distributions,
 - Default Windows wallpapers,
-- Google Images,
-- Various Game Fankits.
+- Google Images.
 
 ## Ownership
 
