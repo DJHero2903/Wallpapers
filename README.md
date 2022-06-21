@@ -6,7 +6,8 @@
 - [DistroTube's Wallpaper Repository](https://gitlab.com/dwt1/wallpapers),
 - [The Computer Clan's Website](https://thecomputerclan.com/),
 - [The Clone Hero Discord Server](https://discord.gg/Hsn4Cgu),
-- [Wallhaven](https://wallhaven.cc/), 
+- [Wallhaven](https://wallhaven.cc/),
+- [Various Subreddits](https://www.reddit.com/),
 - Default wallpaper packages from various Linux distributions,
 - Default Windows wallpapers,
 - Google Images.
