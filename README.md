@@ -8,6 +8,8 @@
 - [The Clone Hero Discord Server](https://discord.gg/Hsn4Cgu),
 - [Wallhaven](https://wallhaven.cc/),
 - [Various Subreddits](https://www.reddit.com/),
+- [dracula/wallpaper](https://github.com/dracula/wallpaper)
+
 - Default wallpaper packages from various Linux distributions,
 - Default Windows wallpapers,
 - Google Images.
